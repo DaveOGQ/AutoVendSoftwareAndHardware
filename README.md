@@ -1,4 +1,4 @@
-# SENG 300 Project Iteration 3, Large Scale Group Development project for Both the software and Hardware components of a Vending Machine
+# SENG 300 Project Iteration 3, Large Scale Group Development project for both the Software and Hardware components of a Vending Machine
 
 ## Setup Requirements
 
