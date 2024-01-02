@@ -1,4 +1,4 @@
-# SENG 300 Project Iteration 3
+# SENG 300 Project Iteration 3, Large Scale Group Development project for Both the software and Hardware components of a Vending Machine
 
 ## Setup Requirements
 
@@ -16,14 +16,14 @@ Move that task to the "In Progress" section.
 Step Two, you'll need to use [Git (download link here)](https://git-scm.com/downloads). Git is a type of Version Control Software that we'll use to make updates to our code.
 
 Once it's done installing, open Git Bash and type the following command:
-```git clone https://github.com/AlanAyy/seng300p3/```
+```git clone https://github.com/DaveOGQ/AutoVendSoftwareAndHardware/```
 
 This will copy the code from the Github servers to your computer so you can change it with Eclipse.
 If the console asks you to sign in, go ahead and grant it access.
 
 Once it's finished cloning, if you're on Windows:
 1. Open the File Explorer
-2. Navigate to your `seng300p3` folder (usually it's in `C:\Users\YOUR-NAME\seng300p3`).
+2. Navigate to your `AutoVendSoftwareAndHardware` folder (usually it's in `C:\Users\YOUR-NAME\AutoVendSoftwareAndHardware`).
 3. Check to make sure it cloned successfully (it should have a README.txt, LICENSE file, etc).
 
 Now you can move your Trello ticket to the "Done" section. Now you're ready to get started!
@@ -34,7 +34,7 @@ Now you can move your Trello ticket to the "Done" section. Now you're ready to g
 If you're on Windows:
 
 1. Open File Explorer.
-2. Open the folder where the `seng300p3` project is stored.
+2. Open the folder where the `AutoVendSoftwareAndHardware` project is stored.
 3. Right-click any empty space and select "Git Bash Here" from the context menu.
 
 Once you have Git open, the following are some instructions for branching and making pull requests:
